@@ -1,24 +1,17 @@
-Notes Project Using Spring Boot And React
-===============================
+# Notes Project Using Spring Boot And React
 
 This is a simple web application that allows users to create and manage their notes. It is built using Spring Boot as the backend and React as the frontend.
 <a href="https://hits.sh/github.com/vivekkakadiya/Notes-using-Spring-Boot"><img alt="Hits" src="https://hits.sh/github.com/vivekkakadiya/Notes-using-Spring-Boot.svg?label=Viewer%20Count&color=355C7D&labelColor=4083e9"/></a>
 
-Getting Started
----------------
+## Getting Started
 
 ### Prerequisites
 
--   Java 17 or higher
--   Node.js and npm
--   MySQL
+- Java 17 or higher
+- Node.js and npm
+- MySQL
 
-## Demo
-
-https://user-images.githubusercontent.com/84114759/225833545-56d450a9-723a-4777-ace9-126e8b0732f3.mp4
-
-
-
+### Snapshots
 
 ### Installation
 
@@ -47,6 +40,7 @@ https://user-images.githubusercontent.com/84114759/225833545-56d450a9-723a-4777-
     cd server/Notes
     ./mvnw package
     ```
+
 4.  Run the backend:
 
     ```bash
@@ -73,16 +67,13 @@ https://user-images.githubusercontent.com/84114759/225833545-56d450a9-723a-4777-
 
     Open [http://localhost:3000](http://localhost:3000/) in your web browser.
 
-Usage
------
+## Usage
 
--   The homepage shows a list of notes.
--   Click the "New Note" button to create a new note.
--   Click the title of a note to view or edit its contents.
--   Click the "Delete" button to delete a note.
+- The homepage shows a list of notes.
+- Click the "New Note" button to create a new note.
+- Click the title of a note to view or edit its contents.
+- Click the "Delete" button to delete a note.
 
-Contributing
-------------
+## Contributing
 
 Contributions are welcome! Please read the [contributing guidelines](https://github.com/vivekkakadiya/Notes-using-Spring-Boot) before getting started.
-
