@@ -12,6 +12,9 @@ This is a simple web application that allows users to create and manage their no
 
 ### Snapshots
 
+![Tableview](https://github.com/user-attachments/assets/5ee2698b-4432-48b8-b330-b238600a58c5)
+![Tableview](https://github.com/user-attachments/assets/bc48b7d2-bc50-4cce-9991-6382a2dbba34)
+
 ### Installation
 
 1.  Clone the repository:
