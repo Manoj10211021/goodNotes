@@ -1,7 +1,6 @@
 # Notes Project Using Spring Boot And React
 
 This is a simple web application that allows users to create and manage their notes. It is built using Spring Boot as the backend and React as the frontend.
-<a href="https://hits.sh/github.com/vivekkakadiya/Notes-using-Spring-Boot"><img alt="Hits" src="https://hits.sh/github.com/vivekkakadiya/Notes-using-Spring-Boot.svg?label=Viewer%20Count&color=355C7D&labelColor=4083e9"/></a>
 
 ## Getting Started
 
@@ -73,7 +72,3 @@ This is a simple web application that allows users to create and manage their no
 - Click the "New Note" button to create a new note.
 - Click the title of a note to view or edit its contents.
 - Click the "Delete" button to delete a note.
-
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](https://github.com/vivekkakadiya/Notes-using-Spring-Boot) before getting started.
